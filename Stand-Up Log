@@ -1,0 +1,43 @@
+Stand-Up Log
+
+******************************************************************************************************************************
+This document will be where we log each stand up we perform throughout the week. This document should include each attendee
+along with each members progress since last standup, items next in the members queue, and any barriers encountered that needs 
+more attention. 
+
+Rules of the road - 
+Stand-ups should be no longer than 15 minutes and serve as simple update. Since we do not work a set schedule in which we 
+gather everyday, not all members may be able to attend the standup. To help disseminate the member status to the entire team,
+the current team lead is responsible for updating this log with discussions. If the team lead can not attend then someone
+in attendance should be deligated to update this document. 
+
+A stand up can be very informal and simple as a quick huddle after leaving a non related class.
+******************************************************************************************************************************
+
+************************ Standup 09/09/2019 ****************************
+
+Ryan:  
+  Progress - Completed section 1,4,5.  
+  Working on next - Review Req document, Review wire diagrams, DJI SDK familirization 
+  Barriers - None
+  Questions - Check status of section 2.
+
+Murat: 
+  Progress - Nearly complete with section 3
+  Working on next - DJI SDK familirization, Review Req document
+  Barriers - None
+  Questions - None
+
+Drew: 
+  Progress - Still working on section 2 
+  Working on next -  DJI SDK familirization, Review Req document
+  Barriers - None
+  Questions - None
+
+Susan:
+  Progress -  Nearly complete with section 3, UI wire chart ready for team review
+  Working on next -  DJI SDK familirization, Review Req document
+  Barriers - None
+  Questions - UI button layout, Section 3.5 Req doc
+  
+ ***************************** END *************************************

@@ -1,0 +1,61 @@
+****************************** Studious Umbrella / Team Leidos : Weekly Meeting Agenda ******************************
+Agenda Skype Meeting (9/12) 2PM-3PM 
+ 
+Invited : Senior Design Team - Ryan Vacca, Murat Siyfiyev, Susan Lee, Drew Smegner.  
+          Leidos Team        - Emily Blocker, James Mccants, Jon Ellsworth. 
+                
+Total Meet time 40 Minutes.
+ 
+Attended: Senior Design Team - Ryan Vacca, Murat Siyfiyev, Susan Lee, Drew Smegner. 
+          Leidos Team        - Emily Blocker
+ 
+Topics:  
+5 min   - Outline meeting expectations / agenda / buffer for connection issues.   
+25 min - Discuss requirements document draft as a group.  
+10 min - Show wiring diagram mockup of user interface. 
+5 min - Discuss logging on github / forked repo
+10 min - Allow time for Leidos topics of discussion. 
+5 min   - Closing comments / discuss items to be complete by next meeting.  
+
+Questions: 
+
+1. Discuss uploading flight plan to drone. Built into code or file located on phone.
+2. Code drop for release to Johns branch with every release / work in ryans space.
+
+Notes: 
+ 
+1. Notes from skype meeting with Leidos on 09/12/19 •
+2. Talked about UI wireframe stated she is okay with that“simple and into the point “.
+3. Talked about which file were going to use. Only required were start stop etc.
+4. Went above and beyond on wireframe.
+5. UP to us on how to implement on the input of the json file or whichever file is needed.
+6. DJI SDK MOBILE FOR ANDROID•Architecture diagram on progress.
+7. Look through the requirements documents to watch out for grammar.  
+8. Group name spelled wrong.•Which gridle and android version is going to be used. 
+9. Decide and let Emily or Leidos know.
+10. Will the application connect to different drones or one Drone? (upto use to decide) 
+11. (update document stating how many drones it will connect to the application (be specific and put details on it.)
+12. Print document and sign it (James is out on Friday and Monday).
+13. Check out the drone (can be checked out anytime but next Friday)
+14. Talked about events on Trello.
+15. Talked about GitHub and how we plan to push code (different pushes) (peer reviews)
+16. Every sprint to be pushed into James branch.  (have the code in their branchend of the sprint)
+17. Talked about logs on GitHub etc.
+18. Next meet up at Leidos (NA)
+19. Talk and fill the paper for Emily that her boss requires on what we did and how wedid it and how we plan on accomplishing it.
+20. Next week skype meeting (ThursdaySeptember 19that 2-3pm)
+21. Flight plans on first release (hard coding or upload the file)
+
+ 
+Action Items: 
+ 
+1. Figure out which Graddle and Android version were going to be using and let Emily know.
+2. Finish up requirements documents and send it in for Approval (James is out of office next Friday and Monday).
+3. Plan the next sprint.
+4. Fix Skype issues.
+5. Upload the UI code to github.
+6. Architecture Diagram.
+
+
+
+********************************************************************************************************************

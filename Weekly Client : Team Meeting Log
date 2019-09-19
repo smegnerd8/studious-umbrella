@@ -102,7 +102,20 @@ Finished:
 
 Notes: 
  
-1.
+1. -Architecture Diagram
+     -understanding of code implementation added to diagram in more deatail
+     - i.e file reader, drone connection process, etc..
+    - Architecture Diagram as is would be better verison of our current wire diagram
+
+2. Req Doc V2
+    - nothing substantially code related until we have apporved REQ Doc and Architecture Doc
+
+* Code Reviews comming on sprint planning
+
+3. For next WED Sep 25 sprint plan 2
+  - Demo: Diagrams and REQ doc
+  
+* course outline to Leidos
 
  
 Action Items: 
